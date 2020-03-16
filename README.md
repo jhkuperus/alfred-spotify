@@ -14,7 +14,7 @@ https://medium.com/@jhkuperus/keyboard-music-management-personal-productivity-39
 Type `.s` to activate the Spotify controls.
 
 [!Spotify Controls]
-(imgs/SpotifyControl.png)
+(https://github.com/jhkuperus/alfred-spotify/blob/master/img/SpotifyControl.png)
 
 When selecting `.sl` for Playlist, you will be greeted by a list of Playlists you
 have entered in the appropriate node in the workflow. After installation, you should
@@ -25,7 +25,7 @@ take a little time to change this list to contain your favourite playlists.
 Type `.v` to activate the Volume controls.
 
 [!Volume Controls]
-(imgs/VolumeControl.png)
+(https://github.com/jhkuperus/alfred-spotify/blob/master/img/VolumeControl.png)
 
 Please be aware the `BLEEDING EARS` option was mostly added as a joke. It is REALLY
 LOUD when you're wearing headphones. Please be careful with your ears and I will not
