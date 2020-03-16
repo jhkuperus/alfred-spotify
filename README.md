@@ -13,6 +13,7 @@ https://medium.com/@jhkuperus/keyboard-music-management-personal-productivity-39
 
 Type `.s` to activate the Spotify controls.
 
+[!Spotify Controls]
 (imgs/SpotifyControl.png)
 
 When selecting `.sl` for Playlist, you will be greeted by a list of Playlists you
@@ -23,6 +24,7 @@ take a little time to change this list to contain your favourite playlists.
 
 Type `.v` to activate the Volume controls.
 
+[!Volume Controls]
 (imgs/VolumeControl.png)
 
 Please be aware the `BLEEDING EARS` option was mostly added as a joke. It is REALLY
